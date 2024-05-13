@@ -6,7 +6,7 @@ function LeftContainer() {
             <div className="leftsearchbox">
                 <div className="container-fluid d-flex align-items-center statuscontainer">
                     <h6 className="calendar-headerh6 mr-2">Status</h6>
-                    <div className="input-group input-group-search">
+                    <div className="selectboxcontainer input-group input-group-search">
                         <input type="text" className="form-control form-control-search" placeholder="" />
                         <div className="input-group-append">
                             <button type="button" className="btn btn-outline-secondary search-button crossbuttons">Draft X</button>
